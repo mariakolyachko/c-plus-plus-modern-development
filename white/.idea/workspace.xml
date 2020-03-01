@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="white" targetName="white" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b87522e5-ced1-4352-b5f1-81cdd460daf9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Snvyx1Dysl0eSdpun9PHslzjAt" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="white" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="white" TARGET_NAME="white" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="white" RUN_TARGET_NAME="white">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b87522e5-ced1-4352-b5f1-81cdd460daf9" name="Default Changelist" comment="" />
+      <created>1572212432626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572212432626</updated>
+      <workItem from="1572212433867" duration="524000" />
+      <workItem from="1572252364803" duration="5343000" />
+      <workItem from="1572349497534" duration="6970000" />
+      <workItem from="1572433079028" duration="6549000" />
+      <workItem from="1572558452076" duration="10000" />
+      <workItem from="1572900983325" duration="4000" />
+      <workItem from="1572985954064" duration="12000" />
+      <workItem from="1573815554772" duration="4858000" />
+      <workItem from="1573820639403" duration="2607000" />
+      <workItem from="1573839118545" duration="5210000" />
+      <workItem from="1573905425116" duration="11000" />
+      <workItem from="1574089816867" duration="12492000" />
+      <workItem from="1574417728540" duration="9670000" />
+      <workItem from="1574426500087" duration="5400000" />
+      <workItem from="1574784214600" duration="530000" />
+      <workItem from="1574886386192" duration="3093000" />
+      <workItem from="1574948746843" duration="7889000" />
+      <workItem from="1575303574384" duration="42000" />
+      <workItem from="1575587045342" duration="7000" />
+      <workItem from="1575977619965" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
